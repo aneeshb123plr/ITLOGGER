@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Workstation 007 not posting",
+      "attention": true,
+      "date": "2020-04-04T08:44:22.337Z",
+      "tech": "Aneesh B"
+    },
+    {
+      "id": 3,
+      "message": "Changed memory o workstaton 050",
+      "attention": false,
+      "date": "2020-04-04T08:44:22.337Z",
+      "tech": "Swetha T"
+    },
+    {
+      "id": 4,
+      "message": "test two",
+      "tech": "John Doe",
+      "attention": false,
+      "date": "2020-04-04T08:44:22.337Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    {
+      "id": 2,
+      "firstname": "Aneesh",
+      "lastname": "B"
+    },
+    {
+      "id": 3,
+      "firstname": "Swetha",
+      "lastname": "T"
+    },
+    {
+      "firstname": "Sanoop",
+      "lastname": "PS",
+      "id": 4
+    },
+    {
+      "firstname": "Suhail",
+      "lastname": "E",
+      "id": 5
+    }
+  ]
+}
